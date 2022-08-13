@@ -11,5 +11,5 @@ diagram data warehouse: https://dbdiagram.io/d/6069e955ecb54e10c33e9fea
 
 Teknologi
 * Python 3.9.7
-* Docker Desktop
+* Docker Desktop 20.10.17
 * Airflow
