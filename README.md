@@ -13,4 +13,4 @@ Teknologi
 * Python 3.9.7
 * Docker 20.10.17
 * Docker Compose 1.29.2
-* Airflow
+* Airflow 2.3.3
