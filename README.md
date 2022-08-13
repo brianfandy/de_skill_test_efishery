@@ -1,7 +1,12 @@
-# soal1-air
+DE skill test eFishery
+
+# soal1-airflow
 
 **Tentang Project**
 
-ini adalah project DAG Airflow untuk melakukan load data dari db data operational https://dbdiagram.io/d/6069e955ecb54e10c33e9fea ke db datawarehouse
+ini adalah project DAG Airflow untuk melakukan load data dari db data operational ke db datawarehouse
 
-https://www.logo.wine/logo/Python_%28programming_language%29
+diagram data operational: https://dbdiagram.io/d/6069e955ecb54e10c33e9fea
+diagram data warehouse: https://dbdiagram.io/d/6069e955ecb54e10c33e9fea
+
+* Dibuat menggunakan python, docker desktop, airflow
