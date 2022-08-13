@@ -9,4 +9,7 @@ ini adalah project DAG Airflow untuk melakukan load data dari db data operationa
 diagram data operational: https://dbdiagram.io/d/6069e955ecb54e10c33e9fea
 diagram data warehouse: https://dbdiagram.io/d/6069e955ecb54e10c33e9fea
 
-* Dibuat menggunakan python, docker desktop, airflow
+Teknologi
+* Python
+* Docker Desktop
+* Airflow
